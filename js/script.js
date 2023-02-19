@@ -21,7 +21,7 @@ window.addEventListener("load", function(){
     ctx.lineTo(canvas.width/2, canvas.height);
     ctx.stroke();
 
-    const text = "Helloyy!";
+    const text = "Practice";
     const textX = canvas.width/2;
     const textY = canvas.height/2;
     
